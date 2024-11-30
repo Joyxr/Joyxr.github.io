@@ -11,5 +11,6 @@ To understand the effect of the abovementioned design features on the optimal de
 
 ### Related Paper
 
-[1] **X. Zhao** and L. Dai, "Connection-Based Aloha: Modeling, Optimization, and Effects of Connection Establishment," in *IEEE Transactions on Wireless Communications*, vol. 23, no. 2, pp. 1008-1023, Feb. 2024. [paper](https://ieeexplore.ieee.org/document/10154598)
+[1]  and L. Dai, "Connection-Based Aloha: Modeling, Optimization, and Effects of Connection Establishment," in *IEEE Transactions on Wireless Communications*, vol. 23, no. 2, pp. 1008-1023, Feb. 2024. [paper](https://ieeexplore.ieee.org/document/10154598)
+
 [2] **X. Zhao** and L. Dai, "To Sense or Not To Sense: A Delay Perspective," to appear in *IEEE Transactions on Communications*. [Paper]((https://ieeexplore.ieee.org/document/10750858))
