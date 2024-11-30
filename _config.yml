@@ -63,11 +63,12 @@ plugins:
 author:
   name   : "Xinran ZHAO"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Student, CityU"
+  bio    : "Ph.D. Student, CityU."
+  location : "Hong Kong SAR"
   email  : "ee.xrzhao@my.cityu.edu.hk"
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=ofnJ5BkAAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
@@ -87,7 +88,7 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=ofnJ5BkAAAAJ&hl=en"# - label: "Twitter"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"

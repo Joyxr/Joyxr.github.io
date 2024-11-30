@@ -10,7 +10,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Xinran’s Homepage</title>
+<!-- begin _includes/seo.html --><title>About me - Xinran’s Homepage</title>
 <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
 
 
@@ -21,7 +21,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Xinran's Homepage">
-<meta property="og:title" content="Xinran’s Homepage">
+<meta property="og:title" content="About me">
 <meta property="og:url" content="http://localhost:4000/">
 
 
@@ -88,7 +88,7 @@
 
   </head>
 
-  <body class="layout--home" dir="ltr">
+  <body class="layout--single" dir="ltr">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -108,37 +108,23 @@
           Xinran's Homepage
           
         </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a
-                href="/bio/"
-                
-                
-              >Biography</a>
-            </li><li class="masthead__menu-item">
-              <a
-                href="/research/"
-                
-                
-              >Research</a>
-            </li><li class="masthead__menu-item">
-              <a
-                href="/publications/"
-                
-                
-              >Publications</a>
-            </li><li class="masthead__menu-item">
-              <a
-                href="/services/"
-                
-                
-              >Services</a>
-            </li><li class="masthead__menu-item">
-              <a
-                href="/awards/"
-                
-                
-              >Awards</a>
-            </li></ul>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/bio/">Biography</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/research/">Research</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/publications/">Publications</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/services/">Services</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/awards/">Awards</a>
+            </li>
+</ul>
         
         <button class="search__toggle" type="button">
           <span class="visually-hidden">Toggle search</span>
@@ -158,6 +144,8 @@
 
     <div class="initial-content">
       
+
+
 
 
 
@@ -183,7 +171,7 @@
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
-        <p>Ph.D. Student, CityU</p>
+        <p>Ph.D. Student, CityU.</p>
 
       </div>
     
@@ -193,11 +181,15 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Hong Kong SAR</span>
+        </li>
+      
 
       
         
           
-            <li><a href="https://scholar.google.com/citations?user=ofnJ5BkAAAAJ&hl=en" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Google Scholar</span></a></li>
+            <li><a href="https://scholar.google.com/citations?user=ofnJ5BkAAAAJ&amp;hl=en" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fa-brands fa-google-scholar" aria-hidden="true"></i><span class="label">Google Scholar</span></a></li>
           
         
           
@@ -215,7 +207,7 @@
       
         <li>
           <a href="mailto:ee.xrzhao@my.cityu.edu.hk" rel="me" class="u-email">
-            <meta itemprop="email" content="ee.xrzhao@my.cityu.edu.hk" />
+            <meta itemprop="email" content="ee.xrzhao@my.cityu.edu.hk">
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
           </a>
         </li>
@@ -281,103 +273,66 @@
 
 
 
-  <div class="archive">
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="About me">
     
-      <h1 id="page-title" class="page__title"></h1>
     
     
 
-<h3 class="archive__subtitle">Recent Posts</h3>
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/" itemprop="url">About me
+</a>
+          </h1>
+          
 
 
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Welcome <img class="emoji" title=":wave:" alt=":wave:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" height="20" width="20"> I am a fifth-year Ph.D. student at the Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, under the supervision of <a href="https://www.ee.cityu.edu.hk/~lindai/">Prof. Lin DAI</a>. Prior to this, I received the B.Eng. degree in the School of Electronic Information and Communications from the Huazhong University of Science and Technology, Wuhan, China, in 2020. My current research focuses on the modeling, analysis and optimal design of multiple access protocols.</p>
+
+<hr>
+
+<h1 id="publications">Publications</h1>
+
+<h3 id="journal-papers">Journal Papers</h3>
+
+<p>[<a href="https://ieeexplore.ieee.org/document/10750858">J2</a>] <strong>X. Zhao</strong> and L. Dai, “To Sense or Not To Sense: A Delay Perspective,” to appear in <em>IEEE Transactions on Communications</em>.</p>
+
+<p>[<a href="https://ieeexplore.ieee.org/document/10154598">J1</a>] <strong>X. Zhao</strong> and L. Dai, “Connection-Based Aloha: Modeling, Optimization, and Effects of Connection Establishment,” in <em>IEEE Transactions on Wireless Communications</em>, vol. 23, no. 2, pp. 1008-1023, Feb. 2024.</p>
+
+<h3 id="conference-papers">Conference Papers</h3>
+
+<p>[<a href="https://ieeexplore.ieee.org/document/10623027">C1</a>] <strong>X. Zhao</strong> and L. Dai, “To Sense or Not To Sense: A Delay Perspective,” <em>IEEE International Conference on Communications</em>, Denver, CO, USA, 2024, pp. 2318-2323.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
 
 
-<div class="entries-list">
+        
+
+      </footer>
+
+      
+
+      
+
+    </div>
+
+    
+  </article>
+
   
-
-
-
-
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/research%20works/sensing-free-based/" rel="permalink">Random Access: Sensing-Free or Sensing-Based?
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          less than 1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">With the ever-growing demand for low-latency services in machine-to-machine (M2M) communications, the delay performance of random access networks has become ...</p>
-  </article>
-</div>
-
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/research%20works/connection-free-based/" rel="permalink">Random Access: Connection-Free or Connection-Based?
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">According to whether a connection to the receiver is established before data transmission, random access schemes can be divided into two categories: connecti...</p>
-  </article>
-</div>
-
-</div>
-
-
-
-
-  </div>
+  
 </div>
 
       
@@ -385,13 +340,15 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+        <div class="search-content__inner-wrap">
+<form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
     <label class="sr-only" for="search">
       Enter your search term...
     </label>
-    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term...">
   </form>
-  <div id="results" class="results"></div></div>
+  <div id="results" class="results"></div>
+</div>
 
       </div>
     
@@ -408,7 +365,7 @@
     
       
         
-          <li><a href="https://scholar.google.com/citations?user=ofnJ5BkAAAAJ&hl=en" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Google Scholar</a></li>
+          <li><a href="https://scholar.google.com/citations?user=ofnJ5BkAAAAJ&amp;hl=en" rel="nofollow noopener noreferrer"><i class="fa-brands fa-google-scholar" aria-hidden="true"></i> Google Scholar</a></li>
         
       
         
@@ -427,7 +384,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Xinran's Homepage</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">© 2024 <a href="http://localhost:4000">Xinran's Homepage</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
