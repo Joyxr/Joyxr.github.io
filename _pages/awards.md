@@ -1,0 +1,4 @@
+---
+permalink: /awards/
+title: "Awards"
+---

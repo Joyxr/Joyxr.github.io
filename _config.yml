@@ -80,12 +80,14 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=ofnJ5BkAAAAJ&hl=en"# - label: "Twitter"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Joyxr"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
