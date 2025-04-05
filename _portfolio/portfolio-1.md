@@ -1,13 +1,13 @@
 ---
 title: "Collections 2025"
-excerpt: "<img src='https://joyxr.github.io/images/2025/2025_5.jpg'>"
+excerpt: "<img src='https://joyxr.github.io/images/2025/2025_5.JPG'>"
 collection: portfolio
 ---
 
 <img src='https://joyxr.github.io/images/2025/2025_1.JPG'>
-<img src='https://joyxr.github.io/images/2025/2025_2.JPG'>
+<img src='https://joyxr.github.io/images/2025/2025_2.jpg'>
 <img src='https://joyxr.github.io/images/2025/2025_3.JPG'>
-<img src='https://joyxr.github.io/images/2025/2025_4.JPG'>
+<img src='https://joyxr.github.io/images/2025/2025_4.jpg'>
 <img src='https://joyxr.github.io/images/2025/2025_5.JPG'>
 <img src='https://joyxr.github.io/images/2025/2025_6.JPG'>
 <img src='https://joyxr.github.io/images/2025/2025_7.JPG'>
