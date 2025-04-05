@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Biography"
+permalink: /cv/
+author_profile: true
+---
+
+Check out my CV [here :scroll:](https://github.com/Joyxr/Joyxr.github.io/files/cv_202404_XinranZHAO.pdf)
+
+## Education
+* Ph.D, Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, Aug. 2020 - 2025 (expected)
+* B.Eng., School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China, Sep. 2016 - Jun. 2020.
+
+## Awards
+* Research Tuition Scholarship, City University of Hong Kong, Sep. 2023.
+* EE Graduate Research Seminar Award - 3nd Prize, Department of Electrical Engineering, City University of Hong Kong, May 2022.
+* Outstanding Undergraduate Thesis Award, Huazhong University of Science and Technology, Jun. 2020.
