@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Check out my CV [here :scroll:](https://github.com/Joyxr/Joyxr.github.io/files/cv_202404_XinranZHAO.pdf)
+Check out my CV <a href="joyxr.github.io/files/cv_202404_XinranZHAO.pdf" target="_blank">here :scroll:</a>.
 
 ## Education
 * Ph.D, Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, Aug. 2020 - 2025 (expected)
