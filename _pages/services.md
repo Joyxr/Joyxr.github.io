@@ -1,4 +1,0 @@
----
-permalink: /services/
-title: "Services"
----

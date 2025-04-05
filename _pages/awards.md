@@ -1,4 +1,0 @@
----
-permalink: /awards/
-title: "Awards"
----
