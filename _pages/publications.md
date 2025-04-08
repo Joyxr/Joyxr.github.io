@@ -9,7 +9,7 @@ author_profile: true
 
 ## Journal Papers
 
-[S1] **X. Zhao** and L. Dai, "Throughput-Optimal Random Access: A Queueing-Theoretical Analysis for Learning-Based Access Design," submitted for publication. [[Preprint](https://)]
+[S1] **X. Zhao** and L. Dai, "Throughput-Optimal Random Access: A Queueing-Theoretical Analysis for Learning-Based Access Design," submitted for publication. [[Preprint](https://arxiv.org/abs/2504.03178)]
 
 [J2] **X. Zhao** and L. Dai, "[To Sense or Not To Sense: A Delay Perspective](https://ieeexplore.ieee.org/document/10750858)," to appear in *IEEE Transactions on Communications*.
 
