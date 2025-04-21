@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Collections 2025"
-excerpt: "<img src='https://joyxr.github.io/images/2025/2025_5.JPG'>"
+excerpt: "<img src='https://joyxr.github.io/images/2025/2025_14.JPG'>"
 collection: portfolio
 ---
 
