@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-View my CV [here :scroll:](https://joyxr.github.io/files/CV_ZhaoXinran_20250620.pdf).
+View my CV [here :scroll:](https://joyxr.github.io/files/CV_ZhaoXinran_20250620.pdf) (last update: June 2025).
 
 ## Education
 * Ph.D, Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, Aug. 2020 - 2025 (expected)
