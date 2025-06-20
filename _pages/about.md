@@ -43,6 +43,6 @@ To reduce the collisions, various random access schemes have been proposed and a
 <!-- Despite plenty of variants and extensive applications, many fundamental issues of random access remain unresolved, e.g., under what conditions carrier sensing or connection establishment is beneficial to the delay performance, which is of great interest considering the growing demand for supporting low-latency services in M2M communications. The challenge originates from the lack of unified analysis of random access schemes with different design features. -->
 
 :paperclip: **Related Papers**:
-* X. Zhao and L. Dai, "[To Sense or Not To Sense: A Delay Perspective](https://ieeexplore.ieee.org/document/10750858)," to appear in *IEEE Transactions on Communications*.
+* X. Zhao and L. Dai, "[To Sense or Not To Sense: A Delay Perspective](https://ieeexplore.ieee.org/document/10750858)," in *IEEE Transactions on Communications*, vol. 73, no. 6, pp. 3863-3879, June 2025.
 
 * X. Zhao and L. Dai, "[Connection-Based Aloha: Modeling, Optimization, and Effects of Connection Establishment](https://ieeexplore.ieee.org/document/10154598)," in *IEEE Transactions on Wireless Communications*, vol. 23, no. 2, pp. 1008-1023, Feb. 2024.
