@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome :wave: I am a fifth-year Ph.D. student at the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), City University of Hong Kong, Hong Kong SAR, under the supervision of [Prof. Lin DAI](https://www.ee.cityu.edu.hk/~lindai/). Prior to this, I received the B.Eng. degree in the School of Electronic Information and Communications from the [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China, in 2020. My current research focuses on the decentralized multiple access, learning-based access design and next-generation wireless communication networks.
+Welcome :wave: I am a researcher at the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), City University of Hong Kong, Hong Kong SAR, under the supervision of [Prof. Lin DAI](https://www.ee.cityu.edu.hk/~lindai/). Prior to this, I received the Ph.D. degree in the Department of Electrical Engineering, City University of Hong Kong, in 2025, and the B.Eng. degree in the School of Electronic Information and Communications from the [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China, in 2020. My current research focuses on the distributed multiple access, learning-based access design and next-generation wireless communication networks.
 <br/>
 <br/>
 <h1 id="research">Research Interests</h1>
 ---
-* **Decentralized multiple access**: Modeling, analysis and optimal design.
+* **Distributed multiple access**: Modeling, analysis and optimal design.
 * **Next-generation wireless communication networks**: Massive Internet of Things, low-latency communications, and distributed learning-based access design.
 <br/>
 <br/>
@@ -27,12 +27,12 @@ As we demonstrated in our recent work, the **queueing-theoretical analysis** can
 :paperclip: **Related Paper**
 * X. Zhao and L. Dai, "Throughput-Optimal Random Access: A Queueing-Theoretical Analysis for Learning-Based Access Design," submitted for publication. [[Preprint available](https://arxiv.org/abs/2504.03178)]
 
-<font size=5><b>:book: Delay Optimization of Random Access Networks</b></font>
+<font size=5><b>:book: Modeling and Optimization of Random Access Networks for M2M Communications</b></font>
 ---
-With the ever-growing demand for **low-latency** services in machine-to-machine (M2M) communications, the delay performance of random access networks has become a primary concern, which critically depends on the access design and access parameter setting. Due to the lack of unified analysis for different types of random access, nevertheless, many fundamental issues remain unresolved, e.g., under what conditions carrier sensing or connection establishment is beneficial to the delay performance. To tackle these issues, in our recent works,
+With the rapid development of Machine-to-Machine (M2M) communications, random access, with which nodes independently decide when to transmit, has been regarded as an appealing solution due to its distributed nature. Due to the lack of unified analysis for different types of random access, nevertheless, many fundamental issues remain unresolved, e.g., optimal tuning of access parameters and effects of various access design features. To tackle these issues, in our recent works,
 
 - **A unified analytical framework** was established, where **various design features** of random access, including sensing-free or sensing-based, connection-free or connection-based and backoff, were incorporated.
-- Based on the unified framework, the **delay performance** of various random access schemes was characterized in a unified manner, and further optimized by properly tuning the access parameters such as transmission probability of each node.
+- Based on the unified framework, the **throughput and delay performance** of various random access schemes was characterized in a unified manner, and further optimized by properly tuning the access parameters such as transmission probability of each node.
 - **Useful criteria**, such as the upper bound of sensing time for beneficial sensing, were obtained.
 - The analysis was further applied to **practical random access schemes**, which sheds important light on the access design of next-generation communication networks.
 
